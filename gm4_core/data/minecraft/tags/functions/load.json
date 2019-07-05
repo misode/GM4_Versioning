@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#gm4:pre_load",
+    "#gm4:register_core",
+    "#gm4:load_core",
+    "#gm4:register",
+    "#gm4:load",
+    "#gm4:post_load"
+  ]
+}
